@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=785
+
+The usual <TAB> stops at any 'shiftwidth' position.
+Sometimes (eg. when programming in RPG or /370-ASM) it is useful to have arbitrary positions (eg. for /370-ASM they are 10,16,71).
+
+This script will give you this feature depending on the filetype.
